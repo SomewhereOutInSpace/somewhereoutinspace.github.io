@@ -2,6 +2,7 @@
 title: Other Repos
 layout: default
 ---
+Navigation ~ [Home](https://captainhaywood.github.io/) ~ [The Forever War](https://captainhaywood.github.io/The-Forever-War-Game/) ~ [KDT Mod](https://captainhaywood.github.io/Kerman-Drive-Technologies/) ~ [Spaceship Sim](https://captainhaywood.github.io/Spaceship-Sim) ~ [FTL: Text Edition](https://captainhaywood.github.io/) ~ [Other Repos](https://captainhaywood.github.io/OTHER)
 
 # Other Repos
 Some of my other repos include:
