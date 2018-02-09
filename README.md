@@ -1,4 +1,4 @@
-Navigation ~ [Home](https://captainhaywood.github.io/) ~ [The Forever War](https://captainhaywood.github.io/The-Forever-War-Game/) ~ [KDT Mod](https://captainhaywood.github.io/Kerman-Drive-Technologies/) ~ [Spaceship Sim](https://captainhaywood.github.io/Spaceship-Sim) ~ [FTL: Text Edition](https://captainhaywood.github.io/) ~ [Other Repos](https://captainhaywood.github.io/OTHER)
+Navigation ~ [Home](https://captainhaywood.github.io/) ~ [The Forever War](https://captainhaywood.github.io/The-Forever-War-Game/) ~ [KDT Mod](https://captainhaywood.github.io/Kerman-Drive-Technologies/) ~ [Spaceship Sim](https://captainhaywood.github.io/Spaceship-Sim) ~ [FTL: Text Edition](https://captainhaywood.github.io/FTL-TextEdition-Reborn) ~ [Other Repos](https://captainhaywood.github.io/OTHER)
 
 # About Me
 Hi!
