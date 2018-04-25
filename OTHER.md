@@ -2,7 +2,7 @@
 title: Other Repos
 layout: default
 ---
-Navigation ~ [Home](https://captainhaywood.github.io/) ~ [The Forever War](https://captainhaywood.github.io/The-Forever-War-Game/) ~ [KDT Mod](https://captainhaywood.github.io/Kerman-Drive-Technologies/) ~ [The Seven Suns](https://captainhaywood.github.io/The-Seven-Suns) ~ [FTL: Text Edition](https://captainhaywood.github.io/FTL-TextEdition-Reborn) ~ [Other Repos](https://captainhaywood.github.io/OTHER)
+Navigation ~ [Home](https://captainhaywood.github.io/) ~ [KDT Mod](https://captainhaywood.github.io/Kerman-Drive-Technologies/) ~ [The Seven Suns](https://captainhaywood.github.io/The-Seven-Suns) ~ [FTL: Text Edition](https://captainhaywood.github.io/FTL-TextEdition-Reborn) ~ [Other Repos](https://captainhaywood.github.io/OTHER)
 
 # Other Repos
 Some of my other repos include:
