@@ -1,4 +1,4 @@
-Navigation ~ [Home](https://captainhaywood.github.io/) ~ [KDT Mod](https://captainhaywood.github.io/Kerman-Drive-Technologies/) ~ [The Seven Suns](https://captainhaywood.github.io/The-Seven-Suns) ~ [FTL: Text Edition](https://captainhaywood.github.io/FTL-TextEdition-Reborn) ~ [Other Repos](https://captainhaywood.github.io/OTHER)
+Navigation ~ [Home](https://captainhaywood.github.io/) ~ [PyChat](https://captainhaywood.github.io/PyChat/) ~ [KDT Mod](https://captainhaywood.github.io/Kerman-Drive-Technologies/) ~ [The Seven Suns](https://captainhaywood.github.io/The-Seven-Suns) ~ [FTL: Text Edition](https://captainhaywood.github.io/FTL-TextEdition-Reborn) ~ [Other Repos](https://captainhaywood.github.io/OTHER)
 
 # About Me
 Hi!
