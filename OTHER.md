@@ -2,7 +2,7 @@
 title: Other Repos
 layout: default
 ---
-Navigation ~ [Home](https://captainhaywood.github.io/) ~ [PyChat](https://captainhaywood.github.io/PyChat/) ~ [KDT Mod](https://captainhaywood.github.io/Kerman-Drive-Technologies/) ~ [The Seven Suns](https://captainhaywood.github.io/The-Seven-Suns) ~ [Other Repos](https://captainhaywood.github.io/OTHER)
+Navigation ~ [Home](https://somewhereoutinspace.github.io/) ~ [PyChat](https://somewhereoutinspace.github.io/PyChat/) ~ [KDT Mod](https://somewhereoutinspace.github.io/Kerman-Drive-Technologies/) ~ [The Seven Suns](https://somewhereoutinspace.github.io/The-Seven-Suns) ~ [Other Repos](https://somewhereoutinspace.github.io/OTHER)
 
 # Other Repos
 Some of my other repos include:
