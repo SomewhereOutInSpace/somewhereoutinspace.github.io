@@ -1,7 +1,13 @@
-Navigation ~ [Home](https://somewhereoutinspace.github.io/) ~ [Aurora](https://somewhereoutinspace.github.io/AURORA-Clicker/) ~ [PyChat](https://somewhereoutinspace.github.io/PyChat/) ~ [The Seven Suns](https://somewhereoutinspace.github.io/The-Seven-Suns) ~ [Other Repos](https://somewhereoutinspace.github.io/OTHER)
+Navigation ~ [Home](README) ~ [Games](GAMES) ~ [Rimworld Mods](RIMWORLD) ~ [Utilities](UTIL) ~ [Other Repos](OTHER)
 
 # About Me
-I'm SomewhereOutInSpace. Most of what you're going to find on here is various simple mods and a bunch of Python programs. Knock yourself out.
+I'm SomewhereOutInSpace, hailing from the great cornfields and meager cities of Central Indiana. In terms of coding, I'm best with Python, but I know some Java and C#. 
+
+What you'll see on here:
+- Homemade Games (Text based or basic GUI)
+- Rimworld Mods (Made with XML and maybe C#)
+- A few miscellaneous programs
+- My school CompSci work (Python and Java)
 
 What I like to do:
 - Programming (obviously)
