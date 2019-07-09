@@ -17,17 +17,16 @@ Navigation ~ [Home](README) ~ [Games](GAMES) ~ [Rimworld Mods](RIMWORLD) ~ [Util
 From the workshop page:
 
 Transmution is an efficient, reasonable late game way easily acquire vital resources without it feeling like cheating. Unlike other replicator mods, Transmution both requires you to input a resource to convert, and requires a special, expensive power source to further prevent abuse. I would especially recommend this mod to:
-[list]
-[*]Anyone playing on a map with limited crucial resources, like an ice sheet or a flat forest
-[*]Anyone who likes long-term colonies but encounters problems with metal supply as the map is mined out
-[*]Anyone who just wants to circumvent annoying resource shortages
-[*]The 5 people with a supercomputer and 150 hungry colonists to feed (transmute some tasty tasty nutrient paste)
-[/list]
 
-[h1]Transmution Reactor[/h1] 
+- Anyone playing on a map with limited crucial resources, like an ice sheet or a flat forest
+- Anyone who likes long-term colonies but encounters problems with metal supply as the map is mined out
+- Anyone who just wants to circumvent annoying resource shortages
+- The 5 people with a supercomputer and 150 hungry colonists to feed (transmute some tasty tasty nutrient paste)
 
-[img]https://i.imgur.com/fEdV79X.png[/img]
-[i]Play god with atoms.[/i]
+###Transmution Reactor
+
+![img](https://i.imgur.com/fEdV79X.png)
+*Play god with atoms*
 
 The main part of the mod, Transmution Reactors can convert raw resources into other raw resources, and can also convert more specific ingredients into higher-tier resources. For example, you can turn wood into bluefur, and then turn that bluefur (or other textile) into devilstrand.
 
@@ -37,135 +36,39 @@ There are also bulk recipes for certain resources, such as steel, where a 100 ra
 
 Transmution Reactors cost 500 steel, 250 plasteel, 25 component, 25 advanced component, and 50 uranium to build.
 
-[h1]Power Cells[/h1] 
+### Power Cells 
 
-[img]https://i.imgur.com/yKyaXbI.png[/img]
+![img](https://i.imgur.com/yKyaXbI.png)
 
-[i]Hiroshima in a can.[/i]
+*Hiroshima in a can.*
 
 An advanced power storage solution created from uranium, plasteel and components at a fabrication table, this is the only power source available for Transmution Reactors. Even then, active use of a Reactor can drain the cells very quickly. Have a lot of uranium on hand, or transmute some before you run out of power. This is one of the limiting factors that helps Transmution feel reasonable.
 
 One power cell costs 5 uranium, 5 plasteel, and 2 components.
 
-[h1]Voxels[/h1]
+### Voxels
 
-[img]https://i.imgur.com/OQUBQBr.png[/img]
+![img](https://i.imgur.com/OQUBQBr.png)
 
-[i]Energy is matter and matter is energy.[/i]
+*Energy is matter and matter is energy.*
 
 Voxels are a resource produced for "free" at a transmution reactor, and can be used as a substitute for raw materials in transmution. The catch comes in the fact that voxel production drains reactor fuel quickly, and that voxels are considered a small-volume ingredient, like gold or silver. This means you need ten times as many voxels as input to transmute a resource.
 
 However, they do have their uses. For example, if you are stuck in a prolonged toxic fallout with no cheap resources to transmute, voxels could make all the difference.
 
-[h1]Research[/h1]
+### Research
 
-[img]https://i.imgur.com/809OqJE.png[/img]
+![img](https://i.imgur.com/809OqJE.png)
 
-[i]The science isn't easy, but it's worth it.[/i]
+*The science isn't easy, but it's worth it.*
 
 Transmution adds a new research tree that gates off transmution of more advanced materials. By default, you can only convert raw materials to wood, voxels and marble blocks. However, through the use of various research nodes, you can unlock metals, textiles, medical supplies, food, components, liquids, and drugs.
 
-[h1]Full list of resources that can be produced by a transmution reactor[/h1]
-(Organized by type and research node)
+### Other Info
 
-[b]Metals[/b]
-Basic Metals
-[list]
-[*]Steel
-[*]Silver
-[/list]
-Advanced Metals
-[list]
-[*]Gold
-[*]Uranium
-[*]Jade
-[/list]
-Plasteel
-[list]
-[*]Plasteel
-[/list]
-
-[b]Textiles[/b]
-Basic Textiles
-[list]
-[*]Cloth
-[*]Bluefur (for cold climates)
-[*]Camelhide (for hot climates)
-[/list]
-Advanced Textiles (requires simpler textiles/leathers)
-[list]
-[*]Synthread
-[*]Devilstrand
-[/list]
-Hyperweave (requires simpler textiles/leathers)
-[list]
-[*]Hyperweave
-[/list]
-
-[b]Medical[/b]
-Basic Medical
-[list]
-[*]Herbal medicine
-[/list]
-Advanced Medical
-[list]
-[*]Neutroamine
-[*]Industrial medicine
-[/list]
-
-[b]Food[/b]
-Basic Food
-[list]
-[*]Nutrient paste meals
-[/list]
-Advanced Food
-[list]
-[*]Simple meals (requires some form of food as input)
-[*]Beef (can be used in transmution of simple meals)
-[*]Corn (can be used in transmution of simple meals)
-[/list]
-
-[b]Drugs[/b]
-Basic Drugs
-[list]
-[*]Penoxycyline
-[*]Smokeleaf joints
-[*]Psychite tea
-[/list]
-Advanced Drugs
-[list]
-[*]Yayo
-[*]Flake
-[*]Wake-up
-[*]Go-juice
-[/list]
-Luciferium
-[list]
-[*]Luciferium
-[/list]
-
-[b]Liquids[/b]
-[list]
-[*]Chemfuel
-[*]Wort
-[/list]
-
-[b]Other[/b]
-[list]
-[*]Industrial Components
-[*]Wood
-[*]Voxel blocks (like stone blocks, but whiter and made via transmution)
-[*]Voxels (produced directly from power cell reserves, no input resources needed)
-[/list]
-
-[h1]Other Info[/h1]
-
-[list]
-[*] Transmution doesn't have any dependencies, and shouldn't cause any conflicts. Let me know if it causes a serious problem, but I doubt it will. Feel free to drop it into your ongoing saves, and if you want to remove it, make sure you remove anything this mod adds before you do so.
-[*]I believe I've balanced this as best I can, but if you stumble across some ridiculous exploit, be sure to let me know and I'll tweak the relevant numbers.
-[*]If there's enough demand for it, I'd be glad to release additional patches/modules that add in the transmution of additional resources, like shells, apparel, weapons, etcetera.
-[*]If you complain about this mod being OP in the comments, prepare to be ignored. Don't like it? Don't subscribe to it. Easy.
-[*]If you do like Transmution, give it a thumbs-up so the Workshop algorithm will give it some time in the limelight. Thanks!
+- Transmution doesn't have any dependencies, and shouldn't cause any conflicts. Let me know if it causes a serious problem, but I doubt it will. Feel free to drop it into your ongoing saves, and if you want to remove it, make sure you remove anything this mod adds before you do so.
+- I believe I've balanced this as best I can, but if you stumble across some ridiculous exploit, be sure to let me know and I'll tweak the relevant numbers.
+- If there's enough demand for it, I'd be glad to release additional patches/modules that add in the transmution of additional resources, like shells, apparel, weapons, etcetera.
 
 ## Rimmunizations
 
@@ -188,3 +91,39 @@ IMPORTANT: Rimmunizations is very Neutroamine-heavy, especially with large popul
 
 Also, no, it doesn't cause autism. Please stop.
 
+## Psionics
+
+WIP - Repository is available but not linked here.
+
+## Clonebay
+
+WIP - Repository is available but not linked here.
+
+## Quality of Life/Misc. Mods
+
+### Reduce/Remove Gradual Relations Decay
+
+[Workshop for Reduce](https://steamcommunity.com/sharedfiles/filedetails/?id=1581689948)
+[Workshop for Remove](https://steamcommunity.com/sharedfiles/filedetails/?id=1575569674)
+
+This pair of mods alters the game's built-in decay of relations with other factions, which I thought was lame. The "reduce" version slows the decay to 10% of it's vanilla speed, and the "remove" version stops it completely.
+
+### Chunk-B-Gone
+
+[Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=1667031221)
+
+From the workshop page:
+
+Are YOU a mountain base lover? Do YOU hate how you often end up with massive piles of stone chunks that you don't want? Then Chunk-B-Gone is for you! 
+
+This is a simple mod that allows pawns to vaporize stone chunks in electric crematoriums. I would recommend building your crematorium close to your chunk stockpile, as pawns can only vaporize one chunk at a time.
+
+### Turret's Aren't Bombs
+
+[Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=1582628008)
+
+From the workshop page:
+
+Thanks to groundbreaking new technology, gun turrets now fire their bullets using electromagnets instead of gunpowder. And since the turret is no longer full of explosive powder, it won't explode when damaged! 
+
+This is a simple mod that disables turrets potentially exploding when they are damaged. May conflict with other mods that alter turret statistics.
