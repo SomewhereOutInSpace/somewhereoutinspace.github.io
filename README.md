@@ -1,4 +1,5 @@
-Navigation ~ [Home](README) ~ [Games](GAMES) ~ [Rimworld Mods](RIMWORLD) ~ [Utilities](UTIL) ~ [Other Repos](OTHER)
+Navigation ~ [Home](https://somewhereoutinspace.github.io/) ~ [Games](GAMES) ~ [Rimworld Mods](RIMWORLD) ~ [Utilities](UTIL) ~ [Other Repos](OTHER)
+
 
 # About Me
 I'm SomewhereOutInSpace, hailing from the great cornfields and meager cities of Central Indiana. In terms of coding, I'm best with Python, but I know some Java and C#. 

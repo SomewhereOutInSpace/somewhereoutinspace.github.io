@@ -2,7 +2,8 @@
 title: Rimworld Mods
 layout: default
 ---
-Navigation ~ [Home](README) ~ [Games](GAMES) ~ [Rimworld Mods](RIMWORLD) ~ [Utilities](UTIL) ~ [Other Repos](OTHER)
+Navigation ~ [Home](https://somewhereoutinspace.github.io/) ~ [Games](GAMES) ~ [Rimworld Mods](RIMWORLD) ~ [Utilities](UTIL) ~ [Other Repos](OTHER)
+
 
 
 # Rimworld Mods
