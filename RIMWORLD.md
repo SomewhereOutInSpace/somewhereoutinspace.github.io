@@ -24,9 +24,10 @@ Transmution is an efficient, reasonable late game way easily acquire vital resou
 - Anyone who just wants to circumvent annoying resource shortages
 - The 5 people with a supercomputer and 150 hungry colonists to feed (transmute some tasty tasty nutrient paste)
 
-###Transmution Reactor
+### Transmution Reactor
 
 ![img](https://i.imgur.com/fEdV79X.png)
+
 *Play god with atoms*
 
 The main part of the mod, Transmution Reactors can convert raw resources into other raw resources, and can also convert more specific ingredients into higher-tier resources. For example, you can turn wood into bluefur, and then turn that bluefur (or other textile) into devilstrand.
@@ -105,6 +106,7 @@ WIP - Repository is available but not linked here.
 ### Reduce/Remove Gradual Relations Decay
 
 [Workshop for Reduce](https://steamcommunity.com/sharedfiles/filedetails/?id=1581689948)
+
 [Workshop for Remove](https://steamcommunity.com/sharedfiles/filedetails/?id=1575569674)
 
 This pair of mods alters the game's built-in decay of relations with other factions, which I thought was lame. The "reduce" version slows the decay to 10% of it's vanilla speed, and the "remove" version stops it completely.
