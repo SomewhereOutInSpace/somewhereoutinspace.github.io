@@ -1,18 +1,7 @@
-Navigation ~ [Home](https://somewhereoutinspace.github.io/) ~ [Games](GAMES) ~ [Rimworld Mods](RIMWORLD) ~ [Utilities](UTIL) ~ [Other Repos](OTHER)
+Navigation // [Home](https://somewhereoutinspace.github.io/) ~ [Repos](REPOS)
 
 
 # About Me
-I'm SomewhereOutInSpace, hailing from the great cornfields and meager cities of Central Indiana. In terms of coding, I'm best with Python, but I know some Java and C#. 
-
-What you'll see on here:
-- Homemade Games (Text based or basic GUI)
-- Rimworld Mods (Made with XML and maybe C#)
-- A few miscellaneous programs
-- My school CompSci work (Python and Java)
-
-What I like to do:
-- Programming (obviously)
-- Building model rockets 
-- Playing unhealthy amounts of video games
-- Reddit
+Hey, I'm James, a garden-vaiety high school student hailing from the great cornfields and meager cities of Central Indiana.
+I specialize in writing hacked-together code and pretending I have the know-how to code actual games. I'm most familiar with Python and Java, but I know my way around C# and a few other languages as well. This Github is mostly used as a dump for all my CS class code, plus the slowly decaying corpses of my old projects.
 
